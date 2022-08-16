@@ -1,0 +1,18 @@
+nav{
+    background-color: rgb(28, 28, 28);
+    padding: 16px 32px;
+    
+    
+}
+
+nav a{
+    color:white;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+.active{
+    text-decoration: none;
+    font-weight: bolder;
+    color:rgb(147, 147, 225)
+}
